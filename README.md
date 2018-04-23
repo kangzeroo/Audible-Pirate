@@ -5,6 +5,7 @@ Audible Pirate is a way to convert txt files to mp3 using AWS Polly voice synthe
 
 ## You Will Need
 - An AWS Account (ideally a free tier)
+- The AWS SDK installed on your local machine
 - Your AWS CLI access token and secret key
 - `ffmpeg` installed from https://ffmpeg.org/ and saved and unzipped to this root folder as `ffmpeg`
 - NodeJS environment setup
