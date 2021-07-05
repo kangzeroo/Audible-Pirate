@@ -1,5 +1,10 @@
 # Audible Pirate by AWS
 
+Converts ebooks into audiobooks.
+
+![audible](https://user-images.githubusercontent.com/22982964/124495183-62868180-ddea-11eb-98b7-eb719248a39b.png)
+
+
 ## What is it?
 Audible Pirate is a way to convert txt files to mp3 using AWS Polly voice synthesizer. Great for reading any document on the go, without wifi! See documentation at: https://github.com/eheikes/aws-tts <br/>
 
